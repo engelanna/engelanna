@@ -1,4 +1,4 @@
-## Hi there 👋
+If a repo description seems interesting 👇, see that repo's README.md 🫡
 
 <!--
 **engelanna/engelanna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
